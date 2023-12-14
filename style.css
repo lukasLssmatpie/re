@@ -1,0 +1,18 @@
+/* Estilos para as tags heading */
+.heading {
+    background-color: #f2f2f2;
+    color: #333;
+    font-size: 36px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para as tags anchor */
+  .anchor-link {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+  }
+  
